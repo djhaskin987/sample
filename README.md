@@ -1,4 +1,4 @@
-split
-=====
+sample
+======
 
-Splits a file into chunks wicked fast
+sample a text file based on predicates.
